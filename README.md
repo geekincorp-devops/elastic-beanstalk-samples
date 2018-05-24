@@ -27,3 +27,6 @@ Sample applications that show the use of additional web frameworks, libraries an
 
 ### Community-provided sample applications
 - [go-beanstalk-gin](https://github.com/sudo-suhas/go-beanstalk-gin) - Demonstrates the deployment of a simple webapp built using `gin` to Elastic Beanstalk. Dependencies are managed using `dep`. Provided by [Suhas Karanth](https://github.com/sudo-suhas).
+
+
+geekincorporated - fork
